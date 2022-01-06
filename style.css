@@ -72,20 +72,19 @@ body {
   padding-left: 10px;
   margin: 15px;
 }
-.img{
+.img {
   width: 100%;
-  padding-left: 50px;
-
+  padding-right: 3%;
 }
-.fast img{
-  width: 100%;
-  padding-left: 10px;
+.fast img {
+  width: 120%;
+  padding-left: 77px;
 }
-.para{
-  padding: 10px;
+.para {
+  padding-left: 99px;
   font-size: 20px;
-
 }
+
 .para h1{
   font-size: 40px;
 }
@@ -98,13 +97,12 @@ body {
   padding: 5%;
   padding-left: 20px
 }
-.img{
-  width: 100%;
-  padding-right: 15%
-
+.img {
+  width: 97%;
+  padding-right: 5%;
 }
-.last img{
-  width: 100%;
+.last img {
+  width: 104%;
 }
 footer{
   text-align: center;
